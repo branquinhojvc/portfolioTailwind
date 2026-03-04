@@ -52,7 +52,3 @@ Edit the `src/data/portfolio.ts` file to update your portfolio information inclu
 - 📝 Easily customizable content
 - 🔍 SEO optimized
 - 📋 Multiple sections: About, Experience, Education, Skills, Projects, Contact
-
-## License
-
-MIT
