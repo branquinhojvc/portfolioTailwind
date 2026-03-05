@@ -60,7 +60,7 @@ export const portfolioData: PortfolioData = {
     title: "Back-End Developer",
     bio: "Passionate about creating innovative solutions and building scalable applications",
     email: "joaobranquinhoofficial@gmail.com",
-    phone: "+55 (64) 99900-8356",
+    phone: "https://wa.me/5564999008356?text=Olá! Gostaria de saber mais sobre seu serviço.",
     location: "Brazil",
     linkedin: "https://www.linkedin.com/in/branquinhojvc/",
     github: "https://github.com/branquinhojvc",
@@ -126,7 +126,7 @@ export const portfolioData: PortfolioData = {
       title: "Portfolio Website",
       description: "A responsive portfolio website built with React and TypeScript.",
       technologies: ["React", "TypeScript", "Tailwind CSS"],
-      link: "https://project-link.com",
+      link: "https://github.com/branquinhojvc/portfolioTailwind",
       github: "https://github.com/branquinhojvc"
     }
   ],
