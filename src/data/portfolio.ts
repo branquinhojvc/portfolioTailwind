@@ -106,6 +106,13 @@ export const portfolioData: PortfolioData = {
       institution: "UNIRV - Universidade de Rio Verde",
       year: "01/2021 - 12/2027",
       details: "Engenharia de Software - Trancado"
+    },
+    {
+      id: "2",
+      degree: "Curso",
+      institution: "DIO",
+      year: "02/2026 - 03/2026",
+      details: "Gen AI & Dados - Cursando"
     }
   ],
   skills: [
