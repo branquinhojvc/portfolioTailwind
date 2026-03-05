@@ -32,6 +32,7 @@ export interface PortfolioData {
     bio: string
     email: string
     phone?: string
+    whatsapp?: string
     location: string
     linkedin?: string
     github?: string
@@ -60,7 +61,8 @@ export const portfolioData: PortfolioData = {
     title: "Back-End Developer",
     bio: "Passionate about creating innovative solutions and building scalable applications",
     email: "joaobranquinhoofficial@gmail.com",
-    phone: "https://wa.me/5564999008356?text=Olá! Gostaria de saber mais sobre seu serviço.",
+    phone: "+55 64 99900-8356",
+    whatsapp: "https://wa.me/5564999008356?text=Olá! Gostaria de saber mais sobre seu serviço.",
     location: "Brazil",
     linkedin: "https://www.linkedin.com/in/branquinhojvc/",
     github: "https://github.com/branquinhojvc",

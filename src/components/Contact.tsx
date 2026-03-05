@@ -27,9 +27,10 @@ export function Contact() {
 
           {personal.phone && (
             <p className="text-gray-300">
-              <span className="text-primary-400 font-semibold">Telefone:</span>{' '}
+              <span className="text-primary-400 font-semibold">Telefone / WhatsApp:</span>{' '}
               <Link
-                href={`tel:${personal.phone.replace(/\D/g, '')}`}
+                href={personal.whatsapp || `tel:${personal.phone.replace(/\D/g, '')}`}
+                target={personal.whatsapp ? "_blank" : undefined}
                 className="hover:text-primary-400 transition-colors"
               >
                 {personal.phone}
